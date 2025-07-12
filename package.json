@@ -22,6 +22,7 @@
     "happy-dom": "18.0.1",
     "pkg-pr-new": "0.0.54",
     "tsconfig": "workspace:*",
+    "next": "*",
     "tsup": "8.4.0",
     "tsx": "4.20.3",
     "turbo": "2.5.4",
